@@ -1,1 +1,1 @@
-"# Multiplatform-ReactNative" 
+# Multiplatform-ReactNative
